@@ -116,6 +116,7 @@ export const About = () => {
                 <li>Relevant Coursework: Data Structures, Web Development, Android Development, Operating System, Database Management, Computer Networks, Cloud Computing</li>
               </ul>
             </div>
+            
             {/* <div className="p-6 rounded-xl border-white/10 border hover:-translate-y-1 transition-all">
               <h3 className="text-xl font-bold mb-4">💼 Work Experience</h3>
               <div className="space-y-4 text-gray-300">
