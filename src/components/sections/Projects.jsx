@@ -24,7 +24,7 @@ export const Projects = () => {
               </ul>
               <div className="text-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                 <a
-                  href="https://example.com/hostel-complaint"
+                  href="https://github.com/RathoreRajdeep/hostel-app"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-5 py-2 mt-2 rounded-md border border-white/30 bg-white/10 text-gray-300 hover:bg-blue-600 hover:border-blue-500 hover:text-white text-sm font-semibold transition"
@@ -44,7 +44,7 @@ export const Projects = () => {
               </ul>
               <div className="text-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                 <a
-                  href="https://example.com/lung-cancer-prediction"
+                  href="https://www.kaggle.com/code/lakshyaraj123/notebooka54b91228e"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-5 py-2 mt-2 rounded-md border border-white/30 bg-white/10 text-gray-300 hover:bg-blue-600 hover:border-blue-500 hover:text-white text-sm font-semibold transition"
@@ -64,7 +64,7 @@ export const Projects = () => {
               </ul>
               <div className="text-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                 <a
-                  href="https://example.com/stock-dashboard"
+                  href="https://stockanalysis-5uk1.onrender.com/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-5 py-2 mt-2 rounded-md border border-white/30 bg-white/10 text-gray-300 hover:bg-blue-600 hover:border-blue-500 hover:text-white text-sm font-semibold transition"
@@ -84,7 +84,7 @@ export const Projects = () => {
               </ul>
               <div className="text-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                 <a
-                  href="https://example.com/cyberpunk-website"
+                  href="https://rathorerajdeep.github.io/GAMExPUNK/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-5 py-2 mt-2 rounded-md border border-white/30 bg-white/10 text-gray-300 hover:bg-blue-600 hover:border-blue-500 hover:text-white text-sm font-semibold transition"
@@ -104,7 +104,7 @@ export const Projects = () => {
               </ul>
               <div className="text-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                 <a
-                  href="https://example.com/frontlearn"
+                  href="https://rathorerajdeep.github.io/FRONT-LEARN/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-5 py-2 mt-2 rounded-md border border-white/30 bg-white/10 text-gray-300 hover:bg-blue-600 hover:border-blue-500 hover:text-white text-sm font-semibold transition"
@@ -124,7 +124,7 @@ export const Projects = () => {
               </ul>
               <div className="text-center opacity-0 group-hover:opacity-100 transition-opacity duration-300">
                 <a
-                  href="https://example.com/portfolio-website"
+                  href="https://portfolio-0-neon.vercel.app/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-flex items-center gap-2 px-5 py-2 mt-2 rounded-md border border-white/30 bg-white/10 text-gray-300 hover:bg-blue-600 hover:border-blue-500 hover:text-white text-sm font-semibold transition"
