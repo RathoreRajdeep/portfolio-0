@@ -1,4 +1,5 @@
 import { useEffect } from "react";
+import { FaGithub, FaLinkedin } from "react-icons/fa";
 
 export const Navbar = ({ menuOpen, setMenuOpen }) => {
   useEffect(() => {
@@ -34,9 +35,29 @@ export const Navbar = ({ menuOpen, setMenuOpen }) => {
               Contact
             </a>
 
+            {/* Social Links */}
+            <a
+              href="https://github.com/RathoreRajdeep"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-gray-300 hover:text-blue-400 transition text-lg"
+              aria-label="GitHub"
+            >
+              <FaGithub />
+            </a>
+            <a
+              href="https://www.linkedin.com/in/rajdeep-singh-rathore"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-gray-300 hover:text-blue-400 transition text-lg"
+              aria-label="LinkedIn"
+            >
+              <FaLinkedin />
+            </a>
+
             {/* Download Resume Button */}
             <a
-              href="https://drive.google.com/uc?export=download&id=12hD96NWoDUiRKnOi_HU2bYjCXiAfaoSl"
+              href="https://drive.google.com/uc?export=download&id=1GRPSAuVEIIczrTztefWjQVizYGVZgbGe"
               target="_blank"
               rel="noopener noreferrer"
               className="bg-gradient-to-r from-blue-600 to-cyan-500 text-white py-1.5 px-4 rounded-lg text-sm font-semibold shadow hover:from-blue-700 hover:to-cyan-600 transition-all"

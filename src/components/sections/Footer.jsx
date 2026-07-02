@@ -34,7 +34,7 @@ export const Footer = () => {
             </a>
 
             <a
-              href="mailto:rajdeeprathore92@gmail.com"
+              href="mailto:rajdeeprathore0902@gmail.com"
               className="text-gray-400 hover:text-blue-400 transition text-2xl"
               aria-label="Email"
             >

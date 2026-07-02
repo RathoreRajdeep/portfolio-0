@@ -8,12 +8,12 @@ export const Home = () => {
     >
       <RevealOnScroll>
         <div className="text-center z-10 px-4">
-          <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent leading-right">
-            Hi, I'm Rajdeep Singh Rathore
+          <h1 className="text-5xl md:text-7xl font-bold mb-6 bg-gradient-to-r from-blue-500 to-cyan-400 bg-clip-text text-transparent leading-tight">
+            Hi, I&apos;m Rajdeep Singh Rathore
           </h1>
 
-          <p className="tex-gray-400 text-lg mb-8 max-w-lg mx-auto">
-            I build clean, scalable web apps using the MERN stack and cross-platform mobile apps with Flutter sprinkled with some machine learning magic to create smooth, user-friendly experiences that just work.
+          <p className="text-gray-400 text-lg mb-8 max-w-lg mx-auto">
+            I build scalable backend systems, full-stack applications, and AI/ML-powered products across web, mobile, databases, cloud engineering, CI/CD, and distributed systems.
           </p>
           <div className="flex justify-center space-x-4">
             <a
